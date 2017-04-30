@@ -1,7 +1,7 @@
 # TDTR_FDTR_vH4
 Same as TDTR_vH3, now with FDTR functionality and tested on Windows (instead of just Mac OS X)
 
-WARNING: This does *NOT* use the latest, most accurate version of the TDTR thermal model here. There are subtle inaccuracies or oversimplifications in certain edge cases, which have been addressed in more recent versions on the Cahill group website: http://users.mrl.illinois.edu/cahill/tcdata/tcdata.html
+WARNING: This does *NOT* use the latest, most accurate version of the TDTR thermal model. There are subtle inaccuracies or oversimplifications in certain edge cases, which have been addressed in more recent versions on the Cahill group website: http://users.mrl.illinois.edu/cahill/tcdata/tcdata.html
 
 Quoting from Cahill's latest version of the thermal model: "... J. Kimling, January 9, 2017; corrected 1D approximation in earlier versions of bidirectional models; includes temperature measurement at locations other than the heat source and depth dependence of optical absorption; v2 corrects errors in the v1 code from November 2016."
 
